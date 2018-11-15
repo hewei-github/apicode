@@ -1,0 +1,19 @@
+{
+  "name": "weblinuxgame/utils",
+  "description": "helper utils",
+  "type": "library",
+  "license": "MTI",
+  "authors": [
+    {
+      "name": "weblinuxgame",
+      "email": "994685563@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "WebLinuxGame\\": "./src"
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {}
+}
